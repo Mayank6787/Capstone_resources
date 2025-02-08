@@ -1,0 +1,471 @@
+[
+    {
+        "Name of Hospital":"Saniya Hospital",
+        "Latitude":23.0351608687,
+        "Longitude":76.7081132066,
+        "Address":"Dabri jod bypass chopati, Ashta, Madhya Pradesh 466116",
+        "Contact":9424703845.0
+    },
+    {
+        "Name of Hospital":"New life multispeciality hospital and trauma Centre ashta",
+        "Latitude":23.036207442,
+        "Longitude":76.7160740046,
+        "Address":"Indore-Bhopal highway, Bypass, chopati, Ashta, Madhya Pradesh 466116",
+        "Contact":9977583765.0
+    },
+    {
+        "Name of Hospital":"MAHADEV HOSPITAL",
+        "Latitude":23.0295900967,
+        "Longitude":76.7157859174,
+        "Address":"2PH8+H7Q, Patwari Colony, Alipur, Ashta, Madhya Pradesh 466116",
+        "Contact":7000507041.0
+    },
+    {
+        "Name of Hospital":"Care Hospital",
+        "Latitude":23.0215082158,
+        "Longitude":76.7250774658,
+        "Address":"Sai Colony, Ashta, Madhya Pradesh 466116",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Civil Hospital Astha",
+        "Latitude":23.0229348825,
+        "Longitude":76.7242983137,
+        "Address":"2PFF+3P7, civil hospital,, Ashta, Madhya Pradesh 466116",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"City Care Hospital",
+        "Latitude":23.0217494459,
+        "Longitude":76.7265915579,
+        "Address":"Kannod Rd, near anshay talkies, Sai Colony, Ashta, Madhya Pradesh 466116",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Ayushman hospital",
+        "Latitude":23.0209283421,
+        "Longitude":76.7271792381,
+        "Address":"2PCG+4RR, Kannod Rd, Sai Colony, Ashta, Madhya Pradesh 466116",
+        "Contact":8349373300.0
+    },
+    {
+        "Name of Hospital":"Shivalaya Hospital Trauma & Maternity Center",
+        "Latitude":23.0187512022,
+        "Longitude":76.7280272772,
+        "Address":"2P9H+856, Kannod Rd, Ashta, Madhya Pradesh 466116",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Gayathri Devi Hospital & Physiotherapy Centre",
+        "Latitude":23.016164527,
+        "Longitude":76.7235050478,
+        "Address":"2P8F+7C2, Ashta, Madhya Pradesh 466116",
+        "Contact":9893323176.0
+    },
+    {
+        "Name of Hospital":"Pushpa Kalyan Hospital",
+        "Latitude":23.0133896749,
+        "Longitude":76.7319874216,
+        "Address":"2P6J+HG5, Ashta, Madhya Pradesh 466116",
+        "Contact":7560242028.0
+    },
+    {
+        "Name of Hospital":"J.K. HOSPITAL ASHTA MULTI SPECIALTY AND TRAUMA CENTER",
+        "Latitude":23.0287101709,
+        "Longitude":76.7329043695,
+        "Address":"DARGSH KE AAGE, Bhopal - Indore Rd, Ashta, Madhya Pradesh 466116",
+        "Contact":7560292080.0
+    },
+    {
+        "Name of Hospital":"Apple hospital Multispeciality & Trauma Centre|Best Gerenal physician |thyroid |Cardiac | pediatrician | gynaecologist",
+        "Latitude":23.0292470076,
+        "Longitude":76.7336888389,
+        "Address":"ke paas, Dargah, Purana, Bhopal - Indore Rd, Ashta, Madhya Pradesh 466116",
+        "Contact":9826938094.0
+    },
+    {
+        "Name of Hospital":"DEVSHREE HOSPITAL ASHTA",
+        "Latitude":23.0291729613,
+        "Longitude":76.7331658593,
+        "Address":"Near, Bhopal - Indore Rd, Ashta, Madhya Pradesh 466116",
+        "Contact":9893068717.0
+    },
+    {
+        "Name of Hospital":"SIDDHARTH HOSPITAL",
+        "Latitude":23.0319496701,
+        "Longitude":76.7369675187,
+        "Address":"Ashta, Shahwajpura, Madhya Pradesh 466116",
+        "Contact":9589253558.0
+    },
+    {
+        "Name of Hospital":"Surya hospital ashta",
+        "Latitude":23.0322273378,
+        "Longitude":76.737812332,
+        "Address":"Sani mandir ke pass ,old indor, Bhopal - Indore Rd, Ashta, Madhya Pradesh 466116",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Geetanjali Hospital",
+        "Latitude":23.0574989099,
+        "Longitude":76.7344283497,
+        "Address":"Oposit Mahendra finance alipur, indore naka, MP SH 41, Ashta, Malikhedi Bazyaft, Madhya Pradesh 466116",
+        "Contact":9630299126.0
+    },
+    {
+        "Name of Hospital":"Shree Balaji Hospital Kalapipal",
+        "Latitude":23.3386109714,
+        "Longitude":76.8374874658,
+        "Address":"Shree Balaji Hospital, Panchmukhi Chauraha, near canera bank, Kalapipal Mandi, Madhya Pradesh 465337",
+        "Contact":8120573787.0
+    },
+    {
+        "Name of Hospital":"Krishna medical & health care",
+        "Latitude":23.3435093931,
+        "Longitude":76.8408222188,
+        "Address":"Karamchari Colony Rd, Kalapipal Mandi, Madhya Pradesh 465337",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"SHREE VEDANTA HOSPITAL",
+        "Latitude":23.3471715733,
+        "Longitude":76.8430046538,
+        "Address":"Kurawar Rd, opp. Sahara School, Kalapipal Mandi, Madhya Pradesh 465337",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Hospital",
+        "Latitude":23.1400462456,
+        "Longitude":76.7867726349,
+        "Address":"4QQP+WM3, Nipaniya Kalan, Madhya Pradesh 466114",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Sanjivani Hospital",
+        "Latitude":22.8916476839,
+        "Longitude":76.1413996411,
+        "Address":"211\/2, Gram, Siroliya, Dewas, Madhya Pradesh 455001",
+        "Contact":7000678049.0
+    },
+    {
+        "Name of Hospital":"DEVSHREE HOSPITAL",
+        "Latitude":22.9847558727,
+        "Longitude":76.5156136111,
+        "Address":"Indore bhopal main road jawar jod, Jawar, Madhya Pradesh 466221",
+        "Contact":9893068717.0
+    },
+    {
+        "Name of Hospital":"Patangshah Cottage Sub District Hospital, Jawhar",
+        "Latitude":19.9141454306,
+        "Longitude":73.2283208608,
+        "Address":"Yeshwant Nagar, Jawhar, Maharashtra 401603",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"SHREE SAIBABA HOSPITAL JAWHAR",
+        "Latitude":19.9196369217,
+        "Longitude":73.2311722386,
+        "Address":"Saki naka Jawhar nashik Bypass, road, Jawhar, Maharashtra 401603",
+        "Contact":8087228439.0
+    },
+    {
+        "Name of Hospital":"Government hospital Harnawda",
+        "Latitude":23.0795759705,
+        "Longitude":6.5478974703,
+        "Address":"3GGX+M9J, Gau Khedi, Madhya Pradesh 466221",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Hopewell hospital and sonography centre",
+        "Latitude":23.217260347,
+        "Longitude":76.5438713497,
+        "Address":"6G8V+QHP, Polay Kalan, Madhya Pradesh 465116",
+        "Contact":9340784803.0
+    },
+    {
+        "Name of Hospital":"Sharma Hospital - Healthcare and Wellness Centre",
+        "Latitude":23.2916922787,
+        "Longitude":76.3332195413,
+        "Address":"Main Road, Berchha, Madhya Pradesh 465110",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Pushpa care hospital",
+        "Latitude":23.1598090334,
+        "Longitude":76.4735308459,
+        "Address":"Sonkatch road, Pipalrawan, Madhya Pradesh 455118",
+        "Contact":7389950024.0
+    },
+    {
+        "Name of Hospital":"Govt Halth Senter Chandakedi",
+        "Latitude":22.8835753741,
+        "Longitude":76.4725186345,
+        "Address":"VFJC+XWP, Jassupura, Madhya Pradesh 455118",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Dangi Hospital Jamoniya",
+        "Latitude":23.1896791405,
+        "Longitude":76.3048124276,
+        "Address":"58Q4+JP9, Bardu, Madhya Pradesh 455116",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Narayan Care Hospital ",
+        "Latitude":23.0098345268,
+        "Longitude":76.5858394456,
+        "Address":"2H5P+VCV, MP SH 18, Dodi, Madhya Pradesh 466221",
+        "Contact":9131787842.0
+    },
+    {
+        "Name of Hospital":"Devanchal hospital Dodi",
+        "Latitude":23.0090333967,
+        "Longitude":76.5862535497,
+        "Address":"Near Bank of India main road dodi, Ashta, Madhya Pradesh 466116",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Government Ayurveda Dispensary",
+        "Latitude":23.1445817526,
+        "Longitude":76.5876949691,
+        "Address":"4HVQ+M4C, Awantipur Badodia, Madhya Pradesh 465118",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Krishna Clinic",
+        "Latitude":23.1431808676,
+        "Longitude":76.5882957839,
+        "Address":"Shop No 1, Anantapur Rd, Awantipur Badodia, Madhya Pradesh 465118",
+        "Contact":8989875697.0
+    },
+    {
+        "Name of Hospital":"Govt. Hospital Awantipur Barodia",
+        "Latitude":23.1441159792,
+        "Longitude":76.5803066646,
+        "Address":"4HVJ+C53, Awantipur Badodia, Madhya Pradesh 465118",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Govt. Ayush Ayurveda Dispensary Khamkheda Baijnath",
+        "Latitude":23.1206477904,
+        "Longitude":76.6169835059,
+        "Address":"4JC8+9RC, Khamkheda, Madhya Pradesh 466125",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Govt. Ayush Ayushman Arogya Mandir Kurawar",
+        "Latitude":23.0858097159,
+        "Longitude":76.5775944637,
+        "Address":"3HMG+9WR, Kurawar, Madhya Pradesh 466116",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Hospital Maina",
+        "Latitude":23.1214049497,
+        "Longitude":76.664359177,
+        "Address":"4MC7+9PH, Seoda, Madhya Pradesh 466125",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Govt Hospital Maina ,Block Ashta Dist Sehore , Madhya Pradesh 466125",
+        "Latitude":23.1656406631,
+        "Longitude":76.665783766,
+        "Address":"5M88+4C Maina, Madhya Pradesh",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Primary Health Centar",
+        "Latitude":23.0779625349,
+        "Longitude":76.8349939575,
+        "Address":"3RGP+V37, Kothri, Madhya Pradesh 466114",
+        "Contact":9981324799.0
+    },
+    {
+        "Name of Hospital":"Gavakheda Health Centre",
+        "Latitude":23.04150977,
+        "Longitude":76.8483110995,
+        "Address":"2RRX+587, Unnamed Road, Gawa Kheda, Madhya Pradesh 466114",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"New Rudra Hospital",
+        "Latitude":23.1794788355,
+        "Longitude":77.1580428101,
+        "Address":"545W+8M Barkhedi, Madhya Pradesh",
+        "Contact":8462988212.0
+    },
+    {
+        "Name of Hospital":"Maa Narmada Hospital",
+        "Latitude":23.2152687112,
+        "Longitude":77.0905790584,
+        "Address":"New Bus Stand, Badiyakheri, Sehore, Madhya Pradesh 466001",
+        "Contact":9926294883.0
+    },
+    {
+        "Name of Hospital":"Atal hospital",
+        "Latitude":23.2209252987,
+        "Longitude":77.0861486734,
+        "Address":"Bhopal - Indore Rd, Guljari Ka Bagicha, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"RANA UDAY HOSPITAL",
+        "Latitude":23.2189957541,
+        "Longitude":77.0956011371,
+        "Address":"53XQ+VQ, 11 sharda colony New bus stand, opposite Hanuman Mandir, Sehore, Madhya Pradesh 466001",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Nidan Hitech Hospital",
+        "Latitude":23.2203344644,
+        "Longitude":77.0781221277,
+        "Address":"632M+HX9, near New Bus Stand, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Lakshita hospital shyampur ",
+        "Latitude":23.4445033716,
+        "Longitude":77.0892575281,
+        "Address":"484 , appo site jila sehkari bank, kurawar, road, Shyampur, Madhya Pradesh 466651",
+        "Contact":8878047986.0
+    },
+    {
+        "Name of Hospital":"District Hospital, Sehore",
+        "Latitude":23.2136855906,
+        "Longitude":77.0836531734,
+        "Address":"River Square, Sewan, Sehore, Madhya Pradesh 466001",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Viraj hospital AMLAHA Indore ",
+        "Latitude":23.1392181801,
+        "Longitude":76.9047864096,
+        "Address":"man rod haiway, Mp, Bhopal - Indore Rd, Sehore, Madhya Pradesh 466113",
+        "Contact":9754553057.0
+    },
+    {
+        "Name of Hospital":"Sai Seva Hospital",
+        "Latitude":23.211179211,
+        "Longitude":77.0915539778,
+        "Address":"Badiyakheri, Sehore, Madhya Pradesh 466001",
+        "Contact":9329696515.0
+    },
+    {
+        "Name of Hospital":"Multi care hospital",
+        "Latitude":22.772127535,
+        "Longitude":77.4332899007,
+        "Address":"ATR MANTION WORD NO.1, ROAD, near KRISHNA VATIKA, Rehti, Madhya Pradesh 466446",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Dialysis Center",
+        "Latitude":23.2228513346,
+        "Longitude":77.089978345,
+        "Address":"RANA UDAY HOSPITAL, Bus Stand, Badiyakheri, Sehore, Madhya Pradesh 473995",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"City Care Hospital",
+        "Latitude":23.2344879686,
+        "Longitude":77.089978345,
+        "Address":"Shri Ram Colony, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+        "Contact":7562401414.0
+    },
+    {
+        "Name of Hospital":"SANJEEVANI HOSPITAL",
+        "Latitude":23.2330668149,
+        "Longitude":77.1027266462,
+        "Address":"Bhopal Naka, Chanakyapuri, Sehore, Madhya Pradesh 466001",
+        "Contact":8319755067.0
+    },
+    {
+        "Name of Hospital":"Suyash Hospital, Sehore",
+        "Latitude":23.2229710103,
+        "Longitude":77.0780074092,
+        "Address":"Ganga Ashram , Rai Complex, Sehore, Madhya Pradesh 466001",
+        "Contact":7354547651.0
+    },
+    {
+        "Name of Hospital":"Vedansh care hospital",
+        "Latitude":22.8806431791,
+        "Longitude":76.6236540281,
+        "Address":"Siddikganj, Ashta, Siddiqueganj, Madhya Pradesh 466120",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"New Surya Hospital Sehore",
+        "Latitude":23.2263999139,
+        "Longitude":77.0869283417,
+        "Address":"53XH+73W, Bhopal - Indore Rd, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Government Hospital Suthaliya",
+        "Latitude":23.9869670429,
+        "Longitude":77.1295800187,
+        "Address":"X4QP+Q2W, Lords St, Madhya Pradesh 465677",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Sisodiya Hospital",
+        "Latitude":23.1981823551,
+        "Longitude":77.0833258721,
+        "Address":"53XM+68X, MP SH 18, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+        "Contact":9826219297.0
+    },
+    {
+        "Name of Hospital":"Vaibhav Hospital",
+        "Latitude":23.1983232,
+        "Longitude":76.5258473,
+        "Address":"358, NEW BUS STAND, MP SH 18 Rani Mohalla, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"SANJEEVANI HOSPITAL",
+        "Latitude":23.1983232,
+        "Longitude":76.5258473,
+        "Address":"Bhopal Naka, Chanakyapuri, Sehore, Madhya Pradesh 466001",
+        "Contact":8319755067.0
+    },
+    {
+        "Name of Hospital":"Govt hospital Amlaha",
+        "Latitude":23.1203495,
+        "Longitude":76.8841477,
+        "Address":"4W83+GMQ, Amlaha, Madhya Pradesh 466113",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Pihu Clinic",
+        "Latitude":23.0138295,
+        "Longitude":76.680977,
+        "Address":"Kothri, Madhya Pradesh 466114",
+        "Contact":8827480464.0
+    },
+    {
+        "Name of Hospital":"Shivay clinic and rajodiya medical",
+        "Latitude":23.0138295,
+        "Longitude":76.680977,
+        "Address":"22GC+4F3, Ichhawar, Madhya Pradesh 466115",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Atal hospital",
+        "Latitude":23.149954,
+        "Longitude":76.8995865,
+        "Address":"Bhopal - Indore Rd, Guljari Ka Bagicha, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Government Hospital",
+        "Latitude":23.0318883,
+        "Longitude":76.9605191,
+        "Address":"22J8+HR9, Ichhawar, Madhya Pradesh 466115",
+        "Contact":null
+    },
+    {
+        "Name of Hospital":"Aayushman city care hospital",
+        "Latitude":23.0247718,
+        "Longitude":76.9550858,
+        "Address":"22FC+WJ5 Bus stend, Bus stend ichhwer nadan road, Ichhawar, Madhya Pradesh 466115",
+        "Contact":null
+    }
+]
