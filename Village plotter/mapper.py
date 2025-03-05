@@ -1,21 +1,45 @@
+import json
 import folium
-import pandas as pd
 
-# Load the JSON file
-data = pd.read_json('data.json')
+# Load village and hospital data
+with open('data.json', 'r') as f:
+    data = json.load(f)
 
-# Create a map centered at the average location
-map_center = [data['Latitude'].mean(), data['Longitude'].mean()]
-hospital_map = folium.Map(location=map_center, zoom_start=12)
+villages = data.get('villages', [])
+hospitals = data.get('hospitals', [])
 
-# Add hospital locations to the map
-for _, row in data.iterrows():
-    folium.Marker(
-        location=[row['Latitude'], row['Longitude']],
-        popup=f"Hospital: {row['Name of Hospital']}"  # Assuming 'name' column exists
-    ).add_to(hospital_map)
+# Ensure there are villages to center the map
+if not villages:
+    raise ValueError("No village data found. Please check the data.json file.")
 
-# Save the map to an HTML file
-hospital_map.save('hospital_map.html')
+# Create a map centered around the first village
+map_center = [villages[0]['Latitude'], villages[0]['Longitude']]
+m = folium.Map(location=map_center, zoom_start=10)
 
-print("Map has been created and saved as 'hospital_map.html'")
+# Function to add markers to the map
+def add_markers(data_list, color, icon=None):
+    for item in data_list:
+        folium.Marker(
+            location=[item['Latitude'], item['Longitude']],
+            popup=item['name'],
+            icon=folium.Icon(color=color, icon=icon) if icon else folium.Icon(color=color)
+        ).add_to(m)
+
+
+def add_markers_hospitals(data_list, color, icon=None):
+    for item in data_list:
+        folium.Marker(
+            location=[item['Latitude'], item['Longitude']],
+            popup=item['Name of Hospital'],
+            icon=folium.Icon(color=color, icon=icon) if icon else folium.Icon(color=color)
+        ).add_to(m)
+
+# Add village markers (blue)
+add_markers(villages, color='blue')
+
+# Add hospital markers (red with plus sign icon)
+add_markers_hospitals(hospitals, color='red', icon="plus-sign")
+
+# Save the map
+m.save("map.html")
+print("Map has been saved as map.html")

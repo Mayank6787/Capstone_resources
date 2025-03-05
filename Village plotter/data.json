@@ -1,4 +1,68 @@
-[
+{
+    "villages":[
+        {"name":"Pipalrawan","Latitude":23.169729978206643,"Longitude": 76.48000382691612},
+        {"name":"Ghichaly","Latitude":23.138541081292185,"Longitude": 76.50849734756284 },
+        {"name":"Khuntkheda","Latitude":23.112012861849394, "Longitude": 76.4827645506281},
+        {"name":"Murawar","Latitude":23.11819430843366,"Longitude": 76.53684309547228},
+        {"name":"Kajlas","Latitude":23.11819430843366,"Longitude": 76.53684309547228},
+        {"name":"Jawar","Latitude":23.012476896927005,"Longitude": 76.48495476107799},
+        {"name":"Khajuriya Jawar","Latitude":23.010123239446223, "Longitude": 76.51871130022958},
+        {"name":"Pagrawad Kalan","Latitude":23.16635297352538, "Longitude": 76.55382859647351},
+        {"name":"Kurawar","Latitude":23.511677579982383, "Longitude": 77.02501367674721},
+        {"name":"Dodi","Latitude":23.01317664250845, "Longitude": 76.57560402633293},
+        {"name":"Khadi","Latitude":23.057815432661826, "Longitude": 76.63445630794979},
+        {"name":"Seoda","Latitude":23.11457119838366, "Longitude": 76.65731889781443},
+        {"name":"Titoriya","Latitude":23.09149573379087, "Longitude": 76.64575578337084},
+        {"name":"Khamkheda","Latitude":23.124408875501516, "Longitude": 76.61402264700061},
+        {"name":"Gwala","Latitude":22.948440674433428, "Longitude": 76.5315095642702},
+        {"name":"Guradiya varma","Latitude":22.905877565399198, "Longitude": 76.50984599140006},
+        {"name":"Khajuriya Kasam","Latitude":22.936581946003262, "Longitude": 76.63817911841336},
+
+        {"name":"Hakimabad","Latitude":23.082515950710807, "Longitude": 76.70517870251105},
+
+        {"name":"Kaji Khedi","Latitude":23.0437263715415, "Longitude": 76.71520894330712},
+
+        {"name":"Ashta","Latitude":23.019433238502128, "Longitude": 76.71518051168094},
+
+        {"name":"Aroliya","Latitude":22.977075098191328, "Longitude": 76.68108079360637},
+
+        {"name":"Khamkheda  astha","Latitude":22.9000600279045, "Longitude": 76.71635756771556},
+
+        {"name":"Nipanniya Kalan","Latitude":23.13835646039921, "Longitude": 76.77286973471404},
+
+        {"name":"Chopadiya","Latitude":23.102230202408517, "Longitude": 76.7764189501821},
+
+        {"name":"Bhaurasa","Latitude":22.95102129888343, "Longitude": 76.76456983969123},
+
+
+        {"name":"Beda Khedi ","Latitude":23.06026141328862, "Longitude": 76.79945573561044},
+
+        {"name":"Bager ","Latitude":22.977132200548787, "Longitude": 76.80886111841265},
+
+        {"name":"Arniya johri","Latitude":22.89501820433687, "Longitude": 76.817454535875},
+        {"name":"Ranayal","Latitude":23.126565641271327, "Longitude": 76.84629660138651},
+        {"name":"Kothri","Latitude":23.073486595326894, "Longitude": 76.83111179327824},
+        {"name":"Gawa Kheda","Latitude":23.045778319441137, "Longitude": 76.8423429397967},
+        {"name":"Guradiya Rupchand","Latitude":22.990628467813742, "Longitude": 76.8432272013952},
+        {"name":"Golu Khedi","Latitude":23.074918211007688, "Longitude": 76.90959372718632},
+        {"name":"Chaipura","Latitude":22.948156288758113, "Longitude": 76.88858904170978},
+        {"name":"Ariya","Latitude":22.91936551674339, "Longitude": 76.93817589556414},
+        {"name":"Dolatpur","Latitude":22.89161469470614, "Longitude": 76.91224663350529},
+        {"name":"Jhalki","Latitude":22.989414745690414, "Longitude": 76.96959720238549},
+        {"name":"Diwadrya","Latitude":22.96678668394108, "Longitude": 76.98039600463996},
+        {"name":"Jatakheda","Latitude":23.154488739522773, "Longitude": 76.98029010583824},
+        {"name":"Awantipur Badodia","Latitude":23.1441159792,"Longitude":76.5803066646},
+        {"name":"Khamkheda Baijnath","Latitude":23.068041978199748,"Longitude": 76.48193443911966},
+        {"name":"Seoda","Latitude":23.1656406631,"Longitude":76.665783766},
+        {"name":"Gau Khedi","Latitude":23.0779625349,"Longitude":76.8349939575},
+        {"name":"Gawa Kheda","Latitude":23.04150977,"Longitude":76.8483110995},
+        {"name":"Barkhedi","Latitude":23.1794788355,"Longitude":77.1580428101},
+        {"name":"Badiyakheri","Latitude":23.2152687112,"Longitude":77.0905790584},
+        {"name":"Sindhi Colony","Latitude":23.2189957541,"Longitude":77.0956011371},
+        {"name":"Chanakyapuri","Latitude":23.2229710103,"Longitude":77.0780074092}
+        
+    ],
+    "hospitals":[
     {
         "Name of Hospital":"Saniya Hospital",
         "Latitude":23.0351608687,
@@ -468,4 +532,5 @@
         "Address":"22FC+WJ5 Bus stend, Bus stend ichhwer nadan road, Ichhawar, Madhya Pradesh 466115",
         "Contact":null
     }
-]
+    ]
+}
