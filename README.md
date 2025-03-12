@@ -6,7 +6,6 @@
 The Hospital Coverage Analysis System is a sophisticated geospatial analysis tool designed to evaluate and visualize healthcare accessibility across India. The system identifies areas where villages lack adequate hospital coverage, defined as being within a 5-kilometer radius of a hospital. This analysis is crucial for healthcare planning and resource allocation, helping identify underserved areas that require additional healthcare facilities.
 
 ### 2. System Architecture
-
 #### 2.1 Data Layer
 The system utilizes a JSON-based data structure containing two primary entities:
 ```json
@@ -30,6 +29,7 @@ The system utilizes a JSON-based data structure containing two primary entities:
 }
 ```
 
+
 #### 2.2 Processing Layer
 The system implements multiple analytical approaches:
 - **Distance Calculation Module:**
@@ -47,8 +47,9 @@ The system implements multiple analytical approaches:
 - Detailed information popups
 - Custom legend and controls
 
-### 3. Technical Implementation
 
+
+### 3. Technical Implementation
 #### 3.1 Core Technologies
 - Python 3.x
 - NumPy for numerical computations
@@ -81,8 +82,8 @@ INDIA_BOUNDS = {
 }
 ```
 
-### 4. Visualization Components
 
+### 4. Visualization Components
 #### 4.1 Map Elements
 - **Hospital Markers:**
   - Green 'H' icons
@@ -108,8 +109,9 @@ INDIA_BOUNDS = {
   - Geographic boundary restrictions
   - Interactive popups
 
-### 5. Implementation Methods
 
+
+### 5. Implementation Methods
 #### 5.1 Data Processing
 - **Initial Data Loading:**
   - JSON file parsing
@@ -130,8 +132,8 @@ INDIA_BOUNDS = {
   - Opacity settings
   - Interactive elements
 
-### 6. Output Generation
 
+### 6. Output Generation
 #### 6.1 HTML Map
 - Interactive web-based visualization
 - Mobile-responsive design
@@ -145,8 +147,9 @@ INDIA_BOUNDS = {
 - Visual representation of coverage areas
 - Identification of underserved regions
 
-### 7. Future Enhancements
 
+
+### 7. Future Enhancements
 #### 7.1 Potential Improvements
 - **Real-time Data Integration:**
   - Live hospital status updates
@@ -166,6 +169,8 @@ INDIA_BOUNDS = {
   - Machine learning integration
   - Predictive analytics
   - Trend analysis capabilities
+
+
 
 ### 8. Conclusion
 The Hospital Coverage Analysis System provides a robust solution for analyzing and visualizing healthcare accessibility in India. Through its comprehensive approach to data processing, analysis, and visualization, it serves as a valuable tool for healthcare planning and resource allocation. The system's modular architecture and scalable design allow for future enhancements and adaptations to meet evolving healthcare analysis needs.
