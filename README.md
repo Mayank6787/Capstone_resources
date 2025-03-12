@@ -2,12 +2,12 @@
 
 ## A Comprehensive Geospatial Healthcare Accessibility Tool
 
-### Introduction
+### 1. Introduction
 The Hospital Coverage Analysis System is a sophisticated geospatial analysis tool designed to evaluate and visualize healthcare accessibility across India. The system identifies areas where villages lack adequate hospital coverage, defined as being within a 5-kilometer radius of a hospital. This analysis is crucial for healthcare planning and resource allocation, helping identify underserved areas that require additional healthcare facilities.
 
-### System Architecture
+### 2. System Architecture
 
-#### Data Layer
+#### 2.1 Data Layer
 The system utilizes a JSON-based data structure containing two primary entities:
 ```json
 {
@@ -30,7 +30,7 @@ The system utilizes a JSON-based data structure containing two primary entities:
 }
 ```
 
-#### Processing Layer
+#### 2.2 Processing Layer
 The system implements multiple analytical approaches:
 - **Distance Calculation Module:**
   - Utilizes geodesic distance calculations
@@ -41,15 +41,15 @@ The system implements multiple analytical approaches:
   - Red Zone: Villages beyond 5km from any hospital
   - Grey Zone: 5km radius around villages without hospital coverage
 
-#### Visualization Layer
+#### 2.3 Visualization Layer
 - Interactive web-based map interface
 - Color-coded markers and zones
 - Detailed information popups
 - Custom legend and controls
 
-### Technical Implementation
+### 3. Technical Implementation
 
-#### Core Technologies
+#### 3.1 Core Technologies
 - Python 3.x
 - NumPy for numerical computations
 - Folium for map visualization
@@ -57,7 +57,7 @@ The system implements multiple analytical approaches:
 - Shapely for geometric operations
 - GeoPy for distance calculations
 
-#### Key Algorithms
+#### 3.2 Key Algorithms
 **Hospital Proximity Analysis:**
 ```python
 def is_near_hospital(village_coord, hospitals):
@@ -81,9 +81,9 @@ INDIA_BOUNDS = {
 }
 ```
 
-### Visualization Components
+### 4. Visualization Components
 
-#### Map Elements
+#### 4.1 Map Elements
 - **Hospital Markers:**
   - Green 'H' icons
   - 5km coverage radius (light green)
@@ -97,7 +97,7 @@ INDIA_BOUNDS = {
   - Zoom controls
   - Geographic bounds restriction
 
-#### User Interface Elements
+#### 4.2 User Interface Elements
 - **Legend:**
   - Hospital indicator
   - Village status indicators
@@ -108,9 +108,9 @@ INDIA_BOUNDS = {
   - Geographic boundary restrictions
   - Interactive popups
 
-### Implementation Methods
+### 5. Implementation Methods
 
-#### Data Processing
+#### 5.1 Data Processing
 - **Initial Data Loading:**
   - JSON file parsing
   - Coordinate extraction
@@ -120,7 +120,7 @@ INDIA_BOUNDS = {
   - Nearest hospital identification
   - Coverage status determination
 
-#### Visualization Generation
+#### 5.2 Visualization Generation
 - **Map Creation:**
   - Base map initialization
   - Layer addition
@@ -130,24 +130,24 @@ INDIA_BOUNDS = {
   - Opacity settings
   - Interactive elements
 
-### Output Generation
+### 6. Output Generation
 
-#### HTML Map
+#### 6.1 HTML Map
 - Interactive web-based visualization
 - Mobile-responsive design
 - Client-side rendering
 - Comprehensive legend
 - Detailed information popups
 
-#### Analysis Results
+#### 6.2 Analysis Results
 - Coverage status for each village
 - Distance to nearest hospital
 - Visual representation of coverage areas
 - Identification of underserved regions
 
-### Future Enhancements
+### 7. Future Enhancements
 
-#### Potential Improvements
+#### 7.1 Potential Improvements
 - **Real-time Data Integration:**
   - Live hospital status updates
   - Dynamic coverage analysis
@@ -157,7 +157,7 @@ INDIA_BOUNDS = {
   - Healthcare capacity analysis
   - Seasonal variation studies
 
-#### Scalability Options
+#### 7.2 Scalability Options
 - **Technical Expansion:**
   - Database integration
   - API development
@@ -167,5 +167,5 @@ INDIA_BOUNDS = {
   - Predictive analytics
   - Trend analysis capabilities
 
-### Conclusion
+### 8. Conclusion
 The Hospital Coverage Analysis System provides a robust solution for analyzing and visualizing healthcare accessibility in India. Through its comprehensive approach to data processing, analysis, and visualization, it serves as a valuable tool for healthcare planning and resource allocation. The system's modular architecture and scalable design allow for future enhancements and adaptations to meet evolving healthcare analysis needs.
